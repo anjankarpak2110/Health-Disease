@@ -1,7 +1,6 @@
-Context
+Heart Disease - Classification Project
 
-This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
-this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
 Meaning of column headers:
 
@@ -30,4 +29,3 @@ slope: the slope of the peak exercise ST segment (Value 1: upsloping, Value 2: f
 ca: The number of major vessels (0-3)
 
 thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
-
